@@ -1,4 +1,2 @@
 # ferdletest
-Testing initial steps on Github
-
-ghp_5bxM24iAOZ
+Testing initial steps on GitHub
